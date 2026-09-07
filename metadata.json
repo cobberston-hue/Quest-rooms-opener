@@ -1,0 +1,6 @@
+{
+  "name": "Room Settings Launcher",
+  "description": "Meta Quest utility to open the secret room and environment settings menu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

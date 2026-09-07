@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Room Launcher</string>
+    <string name="app_subtitle">Meta Quest Room &amp; Environment Settings</string>
+    <string name="launch_button">Open Room Settings</string>
+    <string name="launch_auto_label">Auto-launch on startup</string>
+    <string name="launch_auto_description">Automatically triggers the room settings menu when opening this app</string>
+    <string name="adb_command_title">Direct ADB Command</string>
+    <string name="adb_command_copied">ADB command copied to clipboard</string>
+    <string name="status_ready">Ready to launch</string>
+    <string name="status_launching">Launching Settings Activity…</string>
+    <string name="status_success">Intent sent successfully to Oculus Settings!</string>
+    <string name="status_error_format">Could not launch intent: %s</string>
+    <string name="status_explanation">This opens com.oculus.panelapp.settings/.SettingsActivity with uri /home</string>
+    <string name="meta_quest_badge">Meta Quest Compatible</string>
+    <string name="quick_actions_title">Target URI</string>
+</resources>
